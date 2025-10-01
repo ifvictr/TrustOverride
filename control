@@ -1,0 +1,9 @@
+Package: com.ifvictr.trustoverride
+Name: TrustOverride
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Run expired or untrusted apps on your device
+Maintainer: ifvictr
+Author: ifvictr
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
